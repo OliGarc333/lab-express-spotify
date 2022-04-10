@@ -1,0 +1,5 @@
+body {
+  box-sizing: border-box;
+  /*margin: auto;*/
+  background-image: url('/public/images/spotify-background.jpeg');
+}
